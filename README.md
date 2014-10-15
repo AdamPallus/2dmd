@@ -2,7 +2,7 @@
 ====
 A two-dimensional motion detector that uses a grid of elmentary motion detectors, also known as Reichardt detectors.
 
-This is the source code for model used in the following publications:
+This is the Matlab source code for model used in the following publications:
 
 http://link.springer.com/article/10.1007/s00359-009-0487-7
 
